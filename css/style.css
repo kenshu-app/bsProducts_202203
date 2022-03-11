@@ -29,6 +29,14 @@ ul {
   list-style-type: none;
 }
 
+footer a {
+  color: #8e44ad;
+}
+
+footer a:hover {
+  color: #7e349d;
+}
+
 /*-------------------------
   トップ
 -------------------------*/
